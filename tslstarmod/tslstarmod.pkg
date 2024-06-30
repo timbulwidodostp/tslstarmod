@@ -1,5 +1,8 @@
-d 'DEA': Data envelopment analysis
+d 'tslstarmod': Logistic Smooth Transition Autoregressive Regression (LSTAR) Model for Time Series Data Use tslstarmod With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f tslstarmod.ado
+f tslstarmod.sthlp
+f tslstarmod_initvals.ado
+f tslstarmod_ll.ado
+f tslstarmod_p.ado
+f tslstarmodtest.ado
